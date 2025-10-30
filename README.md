@@ -47,8 +47,9 @@ This allowed selective instance management while maintaining compliance with lea
 - Real-world tagging strategies for access control
 - Practical use of the principle of least privilege
 
- About Me
-Hi, I’m **Nadia Kroduah**, a passionate **Cloud & Cybersecurity student** dedicated to building secure and scalable environments.  
+About Me
+Hi, 
+I’m **Nadia Kroduah**, a passionate **Cloud & Cybersecurity student** dedicated to building secure and scalable environments.  
 This project is part of my continuous learning journey in **AWS**
 
 
